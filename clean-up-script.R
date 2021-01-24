@@ -35,7 +35,7 @@ df_all <- df_meta %>% # join together
 
 ls(df_all)
 
-# leg_id: legislation id  (includes state) State ok
+# leg_id: legislation id  (includes state) 
 # leg_title: title of legislation
 # leg_author: main and additional authors
 # leg_status: status of legislation
